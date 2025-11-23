@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:PaleTurquoise ;
+    padding: 10px;
+    border-radius: 1cap ;
+
+}
+a {
+ color: blue;
+
+}
+h1 {
+    color: darkorange;
+
+
+}
+footer {
+    background-color: white;
+    
+
+}
+footer p {
+    background-color: limegreen;
+    padding: 1%;
+
+}
+nav a {
+    margin: 35px;
+    background-color:green ;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+
+    
+}
+nav {
+    background-color: green;
+    
+   
+
+
+
+}
+select {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid lightgray;
+    font-size: 16px;
+
+
+
+}
+.ccc {
+    
+
+
+
+}
+.ddd {
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 15px;
+
+
+
+
+}
+.csc {
+    text-decoration: none;
+    border: 2px solid darkblue;
+    padding: 5px;
+    color: darkblue;
+
+
+}
